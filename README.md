@@ -23,6 +23,10 @@ To use the expanding cards, simply open the index.html file in a web browser. Yo
 This project was inspired by the concept of expanding cards and is a simple implementation using HTML, CSS, and JavaScript. It was created as a learning exercise and can serve as a starting point for more complex projects involving interactivity and animations.
 
 
+**Preview Of My Project**
+
+![ImageSliderJs](https://github.com/Yash-bharadwaj/ImagesliderJs/assets/86095452/fcd8c6d4-4008-41d9-8d6b-52f4c15ef251)
+
 
 
 
