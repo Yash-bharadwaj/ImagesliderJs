@@ -14,9 +14,13 @@ The project consists of the following files and directories:
 To use or contribute to this project, follow these steps:
 
 Clone the repository: git clone https://github.com/yash-bharadwaj/expanding-cards.git
+
 Navigate to the project directory: cd expanding-cards
+
 Open the project files in a code editor of your choice.
-Usage
+
+**Usage**
+
 To use the expanding cards, simply open the index.html file in a web browser. You will see a series of cards displayed on the screen. Clicking on a card will expand it, revealing additional information or a larger image. Clicking on another card will collapse the previously expanded card and expand the newly clicked one.
 
 
