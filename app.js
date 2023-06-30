@@ -1,0 +1,19 @@
+const panels = document.querySelectorAll('.panels');
+function expandBox(){
+  
+ panels.forEach((panel)=>{
+   panel.addEventListener('click',()=>{
+     removeClassActive();
+     panel.classList.add('active');
+   })
+ })
+
+}
+function removeClassActive(){
+  panels.forEach((panel)=>{
+    panel.classList.remove('active');
+  })
+
+}
+
+expandBox();
