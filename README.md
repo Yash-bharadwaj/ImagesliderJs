@@ -1,4 +1,6 @@
 **Expanding Cards Project**
+
+
 This is a simple project that demonstrates the creation of expanding cards using HTML, CSS, and JavaScript. The expanding cards provide an interactive way to showcase multiple items or images in a card-like format. When a card is clicked, it expands to reveal more information or a larger version of the image.
 
 **Project Structure**
